@@ -41,6 +41,7 @@ body {
 #php-text {
     background-image: linear-gradient(60deg, #ff6d7e, #9acf40);
     background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
 }
 
